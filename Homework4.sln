@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2", "Ex1\Ex2.csproj", "{C3834E3D-95C4-44D5-8B61-7299294C26B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3", "Ex3\Ex3.csproj", "{E740B00F-004D-48EB-8114-3543176CA9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3Test", "Ex3Test\Ex3Test.csproj", "{E01B9693-7906-44C4-97F3-8DAD3E806C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2TestProject", "Ex2TestProject\Ex2TestProject.csproj", "{FD47E0D0-7FFE-4525-90EF-A37FCDF50F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{894D8E4C-26E0-4F00-BA20-8C555E8B3A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1Test", "Exercise1Tes\Exercise1Test.csproj", "{892F123A-9555-4CFC-AD08-32B80863E9AB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://danielaforuniversity.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ex1\\Ex2.csproj
+		SccProjectName1 = Ex1
+		SccLocalPath1 = Ex1
+		SccProjectUniqueName2 = Ex2TestProject\\Ex2TestProject.csproj
+		SccProjectName2 = Ex2TestProject
+		SccLocalPath2 = Ex2TestProject
+		SccProjectUniqueName3 = Ex3\\Ex3.csproj
+		SccProjectName3 = Ex3
+		SccLocalPath3 = Ex3
+		SccProjectUniqueName4 = Ex3Test\\Ex3Test.csproj
+		SccProjectName4 = Ex3Test
+		SccLocalPath4 = Ex3Test
+		SccProjectUniqueName5 = Exercise1\\Exercise1.csproj
+		SccProjectName5 = Exercise1
+		SccLocalPath5 = Exercise1
+		SccProjectUniqueName6 = Exercise1Tes\\Exercise1Test.csproj
+		SccProjectName6 = Exercise1Tes
+		SccLocalPath6 = Exercise1Tes
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3834E3D-95C4-44D5-8B61-7299294C26B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3834E3D-95C4-44D5-8B61-7299294C26B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3834E3D-95C4-44D5-8B61-7299294C26B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3834E3D-95C4-44D5-8B61-7299294C26B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E740B00F-004D-48EB-8114-3543176CA9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E740B00F-004D-48EB-8114-3543176CA9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E740B00F-004D-48EB-8114-3543176CA9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E740B00F-004D-48EB-8114-3543176CA9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01B9693-7906-44C4-97F3-8DAD3E806C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01B9693-7906-44C4-97F3-8DAD3E806C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01B9693-7906-44C4-97F3-8DAD3E806C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01B9693-7906-44C4-97F3-8DAD3E806C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD47E0D0-7FFE-4525-90EF-A37FCDF50F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD47E0D0-7FFE-4525-90EF-A37FCDF50F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD47E0D0-7FFE-4525-90EF-A37FCDF50F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD47E0D0-7FFE-4525-90EF-A37FCDF50F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894D8E4C-26E0-4F00-BA20-8C555E8B3A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894D8E4C-26E0-4F00-BA20-8C555E8B3A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894D8E4C-26E0-4F00-BA20-8C555E8B3A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894D8E4C-26E0-4F00-BA20-8C555E8B3A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892F123A-9555-4CFC-AD08-32B80863E9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892F123A-9555-4CFC-AD08-32B80863E9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892F123A-9555-4CFC-AD08-32B80863E9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892F123A-9555-4CFC-AD08-32B80863E9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
